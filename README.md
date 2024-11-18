@@ -47,7 +47,7 @@ pip install django
 
 Primeiramente, clone o repositório para o seu computador:
 
-git clone https://github.com/seuusuario/eventhub.git
+git clone https://github.com/mthpnts/eventhub.git
 
 3. Instalando Dependências
 
