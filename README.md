@@ -1,6 +1,6 @@
-# Eventhub
+# ![logo](https://github.com/user-attachments/assets/06b719c9-d837-4a2d-8811-204433ce40d9)
 
-**Eventhub** é um sistema de gerenciamento de eventos e vendas de ingressos, desenvolvido utilizando o framework Django e o Bootstrap. O sistema permite que usuários possam criar, visualizar e interagir com eventos, além de realizar a compra de ingressos para eventos de interesse.
+**Eventhub** é um sistema de gerenciamento de eventos e vendas de ingressos, desenvolvido utilizando o framework Django e o Bootstrap. O sistema permite que usuários possam criar, visualizar e interagir com eventos, além de realizar a compra de ingressos para eventos de interesse. Projeto Integrador para o Eixo de Computação da Universidade Virtual do Estado de São Paulo (UNIVESP). 
 
 ---
 
